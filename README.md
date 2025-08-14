@@ -75,4 +75,4 @@ This project was built by:
 ---
 
 ## 📜 License
-[MIT License](LICENSE) – Free to use and modify with attribution.
+This project is licensed under the terms of the [GNU General Public License v3.0](LICENSE).
